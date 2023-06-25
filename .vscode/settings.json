@@ -1,0 +1,10 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./nyx-server/Cargo.toml",
+        "./nyx-server/Cargo.toml",
+        "./nyx-server/Cargo.toml",
+        "./nyx-server/Cargo.toml",
+        "./nyx-server/Cargo.toml"
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
+}
